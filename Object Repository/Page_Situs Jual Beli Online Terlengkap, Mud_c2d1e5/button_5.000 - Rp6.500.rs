@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_5.000 - Rp6.500</name>
+   <tag></tag>
+   <elementGuidId>e7cda69f-d0df-4041-be21-b282f91b07a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f93d643-655d-48e2-beeb-a8dcb7b5dc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>36371c62-de04-4b3c-9944-3d18c6479c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5.000 - Rp6.500</value>
+      <webElementGuid>b4c1bbd5-f321-40cb-b254-3923391cc049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg bordered&quot;]/div[@class=&quot;css-1umeb9i&quot;]/div[@class=&quot;css-1ukamyt m24&quot;]/div[@class=&quot;css-1cysb4j even left&quot;]/section[@class=&quot;css-1rbrfo4-unf-card eeeacht0&quot;]/section[@class=&quot;css-1gw7mzg&quot;]/div[@class=&quot;css-a0reh8&quot;]/div[@class=&quot;css-he6f0n&quot;]/div[@class=&quot;css-1f5gle0&quot;]/div[@class=&quot;css-10t5fvw select&quot;]/div[@class=&quot;css-a5ngkl-opened e83okfj3&quot;]/div[@class=&quot;css-mj0fyg e83okfj0&quot;]/ul[@class=&quot;css-jof6us e83okfj5&quot;]/li[@class=&quot;css-x1v0h9 e83okfj9&quot;]/button[1]</value>
+      <webElementGuid>b1172286-76a6-40da-b7d7-9d9a661a920a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>28d4a73f-16da-4826-bcd6-19b58a1d66e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section/div/div/div[2]/section/section/div/div[2]/div/div[2]/div/div/ul/li[4]/button</value>
+      <webElementGuid>c75b6e41-2cc8-4fdd-bfd3-0201b9881c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/following::button[4]</value>
+      <webElementGuid>7e432ed0-abba-4916-9766-38df7de4cab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nominal'])[1]/following::button[5]</value>
+      <webElementGuid>72b7a849-d8c7-42ab-b3c0-873ff117bfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli'])[1]/preceding::button[14]</value>
+      <webElementGuid>74e6f7ff-5c84-4ed3-a53e-6c69bc6d2f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/preceding::button[15]</value>
+      <webElementGuid>7f60ae67-bb82-48fe-b7f3-49f4a2899b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button</value>
+      <webElementGuid>db4e3bb1-3037-4f0b-85cf-eec3f87d4b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '5.000 - Rp6.500' or . = '5.000 - Rp6.500')]</value>
+      <webElementGuid>7a03f7b4-ced8-4524-8d85-0dbe59f86dc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next</name>
+   <tag></tag>
+   <elementGuidId>4029aa0d-ca23-4d4f-968d-270d93c3df86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layers']/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-18u37iz.r-16y2uox.r-37j5jr.r-a023e6.r-b88u0q.r-1777fci.r-rjixqe.r-bcqeeo.r-q4m81j.r-qvutc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa476460-c3c2-4950-ae8f-acc70c0d7af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>00d80494-e285-421b-8ae3-e3dd13d1db25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-1awozwy r-jwli3a r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0</value>
+      <webElementGuid>82786136-58a3-461b-91df-2dbf4bc76b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>0208d2c3-0a03-4f05-9400-97a6082282e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layers&quot;)/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1d2f490 r-12vffkv r-1xcajam r-zchlnj&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1adg3ll r-1d2f490 r-bnwqim r-zchlnj r-ipm5af&quot;]/div[@class=&quot;r-1oszu61 r-vqxq0j r-1p0dtai r-deolkf r-1adg3ll r-1mlwlqe r-eqz5dr r-1d2f490 r-crgep1 r-ifefl9 r-bcqeeo r-t60dpp r-bnwqim r-zchlnj r-ipm5af r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-1pz39u2 r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1pi2tsx r-1777fci r-1xcajam r-ipm5af r-g6jmlv&quot;]/div[@class=&quot;css-1dbjc4n r-1867qdf r-1wbh5a2 r-kwpbio r-rsyp9y r-1pjcn9w r-1279nm1 r-htvplk r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-1pz39u2 r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6koalj r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jgb5lz r-1ye8kvj r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1isdzm1&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-pw2am6&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-oelmt8 r-sdzlij r-1phboty r-rs99b7 r-19yznuf r-64el8z r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr&quot;]/div[@class=&quot;css-901oao r-1awozwy r-jwli3a r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0&quot;]</value>
+      <webElementGuid>f1e389d3-5125-42fd-bf7d-6602ec0ca115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layers']/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>6fa2a8fe-1159-41e2-bb57-6a651706b8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::div[5]</value>
+      <webElementGuid>ca6915e2-61ec-4490-87b3-2e94331e3fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Use'])[1]/following::div[5]</value>
+      <webElementGuid>4e894484-8100-4b0c-b6e4-ac7a54e14a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happening now'])[1]/preceding::div[3]</value>
+      <webElementGuid>b8be1857-00ab-45b2-9ac1-750f13b6a2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>0b3796b1-d9fc-42d8-90c2-8fbd7914c0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>e2f87cef-5240-4ce2-97ff-f528785d9df5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

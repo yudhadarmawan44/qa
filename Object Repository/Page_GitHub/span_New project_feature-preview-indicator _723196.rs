@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New project_feature-preview-indicator _723196</name>
+   <tag></tag>
+   <elementGuidId>6a62950e-f22d-42c7-aabb-5d2f57fc621e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.feature-preview-indicator.js-feature-preview-indicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/details/summary/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>43ad5812-8a3f-4cfc-a820-931f60c4f7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feature-preview-indicator js-feature-preview-indicator</value>
+      <webElementGuid>e0448734-6413-4ec9-bdc6-fc039fa6eba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive full-width intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-md-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/summary[@class=&quot;Header-link&quot;]/span[@class=&quot;feature-preview-indicator js-feature-preview-indicator&quot;]</value>
+      <webElementGuid>e5ac4ceb-175c-43e5-9de4-998a8b6e4366</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/details/summary/span</value>
+      <webElementGuid>c1bec2e7-78b0-4630-ba5d-d2b34830975c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

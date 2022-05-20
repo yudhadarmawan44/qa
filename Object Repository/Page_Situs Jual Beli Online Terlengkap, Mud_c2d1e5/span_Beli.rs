@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Beli</name>
+   <tag></tag>
+   <elementGuidId>8e00ffde-7483-470e-abae-3bfef689c1d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-12s922k-unf-btn.eg8apji0 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section/div/div/div[2]/section/section/div/div[2]/div/div[3]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff165028-84ce-4831-a11e-cdda98d71ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beli</value>
+      <webElementGuid>5da43e3e-1282-41a0-998b-ddeaadb25895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg bordered&quot;]/div[@class=&quot;css-1umeb9i&quot;]/div[@class=&quot;css-1ukamyt m24&quot;]/div[@class=&quot;css-1cysb4j even left&quot;]/section[@class=&quot;css-1rbrfo4-unf-card eeeacht0&quot;]/section[@class=&quot;css-1gw7mzg&quot;]/div[@class=&quot;css-a0reh8&quot;]/div[@class=&quot;css-he6f0n&quot;]/div[@class=&quot;css-1f5gle0&quot;]/div[@class=&quot;css-10t5fvw cta&quot;]/button[@class=&quot;css-12s922k-unf-btn eg8apji0&quot;]/span[1]</value>
+      <webElementGuid>b64c354c-c347-41e0-9806-bcad778d8c51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section/div/div/div[2]/section/section/div/div[2]/div/div[3]/button/span</value>
+      <webElementGuid>bf339db9-7145-4f86-a19b-87879ecc7c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nominal'])[1]/following::span[19]</value>
+      <webElementGuid>8dd100e1-1e01-4fbd-b514-34207cf0588e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Telepon'])[1]/following::span[19]</value>
+      <webElementGuid>e6953fb4-414a-4186-9a8f-1d2ec86f2a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[2]/preceding::span[1]</value>
+      <webElementGuid>79e9c16e-f05f-4ff7-962c-8a6552470dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handphone &amp; Tablet'])[1]/preceding::span[2]</value>
+      <webElementGuid>d03221a7-a060-4411-928f-dc3eaa0a2c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beli']/parent::*</value>
+      <webElementGuid>b52492d3-c1de-4dcf-a746-e837a5457962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>d7bf482d-72c1-4d5d-8851-0fec0ccbdd33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Beli' or . = 'Beli')]</value>
+      <webElementGuid>b7f0397c-c553-43ae-a393-e4c04597b957</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

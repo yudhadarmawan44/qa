@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Valid email is required to activate pro_07b384</name>
+   <tag></tag>
+   <elementGuidId>0f8ad29c-a862-4e8e-a42f-7dcbfdc58be7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.icon-input.eye-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_71538058904']/div[3]/div/form/div[2]/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ec594e61-5b4d-4b2e-874b-29974a07b9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-input eye-password</value>
+      <webElementGuid>b98b94f5-8180-4bc2-9df2-f36697f675cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/sign_up/2022/eye-slash.svg</value>
+      <webElementGuid>c6d7e4ec-94f0-4b5c-ae11-2b59e2c6c092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Katalon Products</value>
+      <webElementGuid>318b905e-21ca-434f-a89b-78a93efbff08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>94713faf-dabc-40d6-b5e9-931ac69dd9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_71538058904&quot;)/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/form[@class=&quot;form_sign_up&quot;]/div[@class=&quot;input-div-form password-input&quot;]/img[@class=&quot;icon-input eye-password&quot;]</value>
+      <webElementGuid>06077f6d-4eb1-4631-815a-4b983ed7f976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_71538058904']/div[3]/div/form/div[2]/img[2]</value>
+      <webElementGuid>5e7aa0b3-f4f2-4182-8d92-00ff39a75372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Katalon Products'])[3]</value>
+      <webElementGuid>ca625191-d0cf-4b1a-b68a-d103c855c46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/img[2]</value>
+      <webElementGuid>ceeef7ec-23ee-4d21-9a0f-deb658dcd4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/sign_up/2022/eye-slash.svg' and @alt = 'Katalon Products']</value>
+      <webElementGuid>518e749a-4668-4673-ba46-5e16f367c4b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

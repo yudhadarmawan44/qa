@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>bukalapak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7b6afb1d-8418-41c8-970b-c1302e2baa87</testSuiteGuid>
+   <testCaseLink>
+      <guid>6b4708e0-d40f-474b-ac58-441d341c36cc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/databasetestbro/bukalapak</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>18a0b9c8-d206-4c7c-83d2-965756dee65a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tesbukalapak</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c2c002a0-7417-49f8-acd4-599d92793caf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>18a0b9c8-d206-4c7c-83d2-965756dee65a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nomer</value>
+         <variableId>d9b7aecc-e50c-4e1d-8995-e9762a22a777</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

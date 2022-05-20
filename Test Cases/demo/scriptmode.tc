@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>scriptmode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e7d81fa-bd6b-4e87-be6b-cbcc184f0053</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7002924f-ea21-4b83-8286-464abf821191</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12c5cf9e-6e0d-488a-b596-060c639eae63</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29c8d1bf-c0d8-4c0a-a479-0d54c80dcbeb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aaa3cc82-af27-4e21-9053-ac875a9fb6c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>7002924f-ea21-4b83-8286-464abf821191</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>12c5cf9e-6e0d-488a-b596-060c639eae63</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Make Appointment'</defaultValue>
+      <description></description>
+      <id>29c8d1bf-c0d8-4c0a-a479-0d54c80dcbeb</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>aaa3cc82-af27-4e21-9053-ac875a9fb6c5</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

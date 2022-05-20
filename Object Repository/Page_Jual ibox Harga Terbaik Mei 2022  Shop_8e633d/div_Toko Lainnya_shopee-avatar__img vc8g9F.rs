@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toko Lainnya_shopee-avatar__img vc8g9F</name>
+   <tag></tag>
+   <elementGuidId>58e46534-2bc9-4e5e-aba7-48a3c04a8b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.shopee-avatar__img.vc8g9F</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[3]/div/div/div[2]/div/div/div[2]/div/a/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cb899ec-ce34-4eb5-b130-4b22b9fd80dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shopee-avatar__img vc8g9F</value>
+      <webElementGuid>5fe3cc00-7b24-49bf-9a6a-d44c1533ead1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_9dX3ZL&quot;]/div[@class=&quot;container +eN62l&quot;]/div[@class=&quot;ZgwlcK&quot;]/div[@class=&quot;shopee-search-user-brief&quot;]/div[@class=&quot;shopee-header-section shopee-header-section--simple&quot;]/div[@class=&quot;shopee-header-section__content&quot;]/div[@class=&quot;shopee-search-user-item shopee-search-user-item--short&quot;]/a[@class=&quot;shopee-search-user-item__leading&quot;]/div[@class=&quot;shopee-avatar&quot;]/div[@class=&quot;yvbeD6 shopee-avatar__img-wrapper&quot;]/div[@class=&quot;shopee-avatar__img vc8g9F&quot;]</value>
+      <webElementGuid>bdffeb92-3a8e-4e1a-89a8-7729abb057da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[3]/div/div/div[2]/div/div/div[2]/div/a/div/div[2]/div</value>
+      <webElementGuid>2e3ae84c-f53c-4784-b297-7fd50870aaef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>98a6a53b-b3c9-44d2-9038-274df3ee3766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

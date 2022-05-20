@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Halaman Utama Shopee</name>
+   <tag></tag>
+   <elementGuidId>ab8dee92-9a8a-46a8-a1fc-7a2f32fa3ffb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a._2TLLZP.ZUq1cc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>facbab41-1d4c-4ae0-9f17-fa1ced666718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shopee.co.id</value>
+      <webElementGuid>e09d0228-7adf-46a6-9b94-81185c3fd646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2TLLZP ZUq1cc</value>
+      <webElementGuid>7c4a264f-c8d8-45ea-8d03-65b8fcc18626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Halaman Utama Shopee</value>
+      <webElementGuid>45d7cacd-2e7c-4f66-bfce-ced66b83f818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;theme--ofs&quot;]/div[@class=&quot;dYFPlI A+KelN&quot;]/div[@class=&quot;shopee-top shopee-top--sticky&quot;]/div[@class=&quot;navbar-wrapper container-wrapper navbar-wrapper--official-shop&quot;]/div[@class=&quot;container navbar&quot;]/div[@class=&quot;flex v-center FAQGyh&quot;]/a[@class=&quot;_2TLLZP ZUq1cc&quot;]</value>
+      <webElementGuid>e5c0c867-8cb6-4180-a474-12d0694ff368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div/a</value>
+      <webElementGuid>47d2ee8d-872f-4bd1-873e-aa9af21a821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Halaman Utama Shopee')]</value>
+      <webElementGuid>63dd699f-3e41-4f4f-acbd-050909e52d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lompat ke konten utama'])[1]/following::a[1]</value>
+      <webElementGuid>b27c3c1b-fb9a-4c07-a25c-6a6e95f5d624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Jual'])[1]/preceding::a[1]</value>
+      <webElementGuid>9c82a629-f9bd-40fc-a176-fa35023f7c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::a[2]</value>
+      <webElementGuid>bddc0eec-f7af-48bf-b283-17371ca78231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Halaman Utama Shopee']/parent::*</value>
+      <webElementGuid>15348e10-48fc-4fc5-b7c8-ae3113b2d836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shopee.co.id')]</value>
+      <webElementGuid>8f2939b4-f9ef-465e-805d-cfdbd20b9a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>63f4fbde-cb9e-4f76-b86a-f4ff80d8c9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shopee.co.id' and (text() = 'Halaman Utama Shopee' or . = 'Halaman Utama Shopee')]</value>
+      <webElementGuid>563a47e2-bfba-4627-856d-9c57ce0e0822</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

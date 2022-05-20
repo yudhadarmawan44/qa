@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>twitter</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>10e34f58-c469-4308-91ac-53e292eded9f</testSuiteGuid>
+   <testCaseLink>
+      <guid>10203c1d-beb6-4f6c-8cf2-26ce1765d376</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/databasetestbro/twitter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ef774322-3fb9-4469-976c-2700e30afe98</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/twitter</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cb325103-3d3e-4099-96cb-750b70df70b9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ef774322-3fb9-4469-976c-2700e30afe98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>9448810f-3665-4a80-86bd-1743a9a265ca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ef774322-3fb9-4469-976c-2700e30afe98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nomer</value>
+         <variableId>63a333a0-eb37-4a80-8947-d8dff581f3ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33a4090e-a7c9-4bda-a018-0135e9436401</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ef774322-3fb9-4469-976c-2700e30afe98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal</value>
+         <variableId>55256af4-dadd-40b0-bc39-2b98e00740e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ef774322-3fb9-4469-976c-2700e30afe98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tahun</value>
+         <variableId>2791db4d-4564-4e36-b436-483bd3daf7bd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

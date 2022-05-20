@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Account</name>
+   <tag></tag>
+   <elementGuidId>8f6002e1-070e-4f0a-b49d-ba21cc1d3ee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hs-button_my_account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hs-button_my_account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2181a8f8-9d6c-46f8-a5a7-15d55bc325bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hs-button </value>
+      <webElementGuid>cba039fc-a037-411e-b1f7-35db54ed4344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://my.katalon.com/profile?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5dWRoYWRhcm1hd2FuNDQ0QGdtYWlsLmNvbSIsInVwbiI6IjkwMDcwMiIsImdyb3VwcyI6WyJVU0VSIl0sInN0YXR1cyI6IlZFUklGSUVEIiwiZ2l2ZW5fbmFtZSI6IkVyd2FuIiwiZmFtaWx5X25hbWUiOiJZdWRoYSBEYXJtYXdhbiIsImVtYWlsIjoieXVkaGFkYXJtYXdhbjQ0NEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3JlYXRlZF9hdCI6MTY1MTY4MTY4NCwidXBkYXRlZF9hdCI6MTY1Mjc1MzY2NCwiYW1yIjpbInB3ZCJdLCJpYXQiOjE2NTI3NTM2NzEsImV4cCI6MTY1MzM1ODQ3MSwianRpIjoiNGQxNzg4MjktOTdkNy00NTMxLWJiNDItYjgyMjE5ZjU5YTMxIiwiaXNzIjoia2F0YWxvbi1hdXRoIn0.QpGyWkS81l3tFdneftFHM0zwyLR1CJKmOxaYu8PrfiAvwxVsJTZjGBfGSS1yI3QE0wh6RTSP_AQS5ddKu_jfiGOnfnj-6a8BCEEjVxDsuUnnfc23l0FyUhq8_lCd0Q8BMdX5y_8F-_cFuAx7l8a51I1YUKfh4749k7boLP4Kw44-AsaT_V6q7RreXVwh9THqSw7KDJSWIg6zEe-drgGRiRACWHcfOQD8BNvL-E--G-1qwEAal2314JCQHZ6qdEEpW3GOUsVnqfK7MJyDx9rSS5AIQlM-rzjzzbtiSCp-Of0m4NdDEnXQEMRyoXb-K5BDo_H29VA2FJCb-u_QrE87Cw</value>
+      <webElementGuid>5d25fe91-0b51-435f-b7ce-f5cb53ade240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hs-button_my_account</value>
+      <webElementGuid>810055ce-26d3-4698-9d41-9719c6a563a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  My Account
+</value>
+      <webElementGuid>607e91e2-9f92-46c2-8d25-0e9e530bb7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs-button_my_account&quot;)</value>
+      <webElementGuid>a52e5e45-99f4-4fa0-bc4d-e04f2b90c2a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='hs-button_my_account']</value>
+      <webElementGuid>7cbec7bf-9b3b-4a78-91a3-2b2083d66a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_my_account']/a</value>
+      <webElementGuid>32599a36-45ac-4a99-ab09-c9c4b6aea005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Account')]</value>
+      <webElementGuid>ee3026ca-081c-4071-9ac0-d6f7f698479f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start for Free'])[1]/following::a[1]</value>
+      <webElementGuid>a76123fa-1d9f-40e8-8653-390faca3a810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/following::a[2]</value>
+      <webElementGuid>7a532339-b572-4f5e-9ea0-139e8087cd00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::a[3]</value>
+      <webElementGuid>bc10839d-ad7c-430f-8789-a761c2028260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEATURED PRODUCTS'])[2]/preceding::a[4]</value>
+      <webElementGuid>b7a50b07-9d0c-4196-9e85-95fadf8c9636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>305372c2-73e3-42c3-97d3-51692a1bc2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://my.katalon.com/profile?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5dWRoYWRhcm1hd2FuNDQ0QGdtYWlsLmNvbSIsInVwbiI6IjkwMDcwMiIsImdyb3VwcyI6WyJVU0VSIl0sInN0YXR1cyI6IlZFUklGSUVEIiwiZ2l2ZW5fbmFtZSI6IkVyd2FuIiwiZmFtaWx5X25hbWUiOiJZdWRoYSBEYXJtYXdhbiIsImVtYWlsIjoieXVkaGFkYXJtYXdhbjQ0NEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3JlYXRlZF9hdCI6MTY1MTY4MTY4NCwidXBkYXRlZF9hdCI6MTY1Mjc1MzY2NCwiYW1yIjpbInB3ZCJdLCJpYXQiOjE2NTI3NTM2NzEsImV4cCI6MTY1MzM1ODQ3MSwianRpIjoiNGQxNzg4MjktOTdkNy00NTMxLWJiNDItYjgyMjE5ZjU5YTMxIiwiaXNzIjoia2F0YWxvbi1hdXRoIn0.QpGyWkS81l3tFdneftFHM0zwyLR1CJKmOxaYu8PrfiAvwxVsJTZjGBfGSS1yI3QE0wh6RTSP_AQS5ddKu_jfiGOnfnj-6a8BCEEjVxDsuUnnfc23l0FyUhq8_lCd0Q8BMdX5y_8F-_cFuAx7l8a51I1YUKfh4749k7boLP4Kw44-AsaT_V6q7RreXVwh9THqSw7KDJSWIg6zEe-drgGRiRACWHcfOQD8BNvL-E--G-1qwEAal2314JCQHZ6qdEEpW3GOUsVnqfK7MJyDx9rSS5AIQlM-rzjzzbtiSCp-Of0m4NdDEnXQEMRyoXb-K5BDo_H29VA2FJCb-u_QrE87Cw')]</value>
+      <webElementGuid>096e1b95-f85a-40ab-9e3c-3aefef963b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>1f5bb3c7-edf7-4430-a6b0-529f7026562c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://my.katalon.com/profile?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5dWRoYWRhcm1hd2FuNDQ0QGdtYWlsLmNvbSIsInVwbiI6IjkwMDcwMiIsImdyb3VwcyI6WyJVU0VSIl0sInN0YXR1cyI6IlZFUklGSUVEIiwiZ2l2ZW5fbmFtZSI6IkVyd2FuIiwiZmFtaWx5X25hbWUiOiJZdWRoYSBEYXJtYXdhbiIsImVtYWlsIjoieXVkaGFkYXJtYXdhbjQ0NEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiY3JlYXRlZF9hdCI6MTY1MTY4MTY4NCwidXBkYXRlZF9hdCI6MTY1Mjc1MzY2NCwiYW1yIjpbInB3ZCJdLCJpYXQiOjE2NTI3NTM2NzEsImV4cCI6MTY1MzM1ODQ3MSwianRpIjoiNGQxNzg4MjktOTdkNy00NTMxLWJiNDItYjgyMjE5ZjU5YTMxIiwiaXNzIjoia2F0YWxvbi1hdXRoIn0.QpGyWkS81l3tFdneftFHM0zwyLR1CJKmOxaYu8PrfiAvwxVsJTZjGBfGSS1yI3QE0wh6RTSP_AQS5ddKu_jfiGOnfnj-6a8BCEEjVxDsuUnnfc23l0FyUhq8_lCd0Q8BMdX5y_8F-_cFuAx7l8a51I1YUKfh4749k7boLP4Kw44-AsaT_V6q7RreXVwh9THqSw7KDJSWIg6zEe-drgGRiRACWHcfOQD8BNvL-E--G-1qwEAal2314JCQHZ6qdEEpW3GOUsVnqfK7MJyDx9rSS5AIQlM-rzjzzbtiSCp-Of0m4NdDEnXQEMRyoXb-K5BDo_H29VA2FJCb-u_QrE87Cw' and @id = 'hs-button_my_account' and (text() = '
+  My Account
+' or . = '
+  My Account
+')]</value>
+      <webElementGuid>a6b196db-2fad-49d3-97ee-e37282771ce6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
